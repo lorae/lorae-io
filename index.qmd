@@ -2,9 +2,7 @@
 title: "lorae-io"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I'm Lorae, and this is my website!
 
 ```{r}
 1 + 1
