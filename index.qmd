@@ -2,9 +2,14 @@
 title: "lorae-io"
 ---
 
-Hi, I'm Lorae, and this is my website!
+Hi, I'm Lorae! I'm a Research Specialist in Princeton University's Eviction Lab, in the sociology department. I have a bachelor's degree in economics from Harvard University, and previously worked in macroeconomic policy research at the Brookings Institution. This is my (very brand new) website.
 
-```{r}
-# Math!
-1 + 1
-```
+I study how Americans navigate housing choices. I'm also interested in the underlying mechanics driving real estate markets, and in policy measures that can improve our housing affordability, stability, and access.
+
+Find me here:
+
+LinkedIn: <https://www.linkedin.com/in/lorae-stojanovic/>
+
+GitHub: <https://github.com/lorae>
+
+Bluesky: <https://bsky.app/profile/lorae.io>\
