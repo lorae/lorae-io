@@ -5,5 +5,6 @@ title: "lorae-io"
 Hi, I'm Lorae, and this is my website!
 
 ```{r}
+# Math!
 1 + 1
 ```
