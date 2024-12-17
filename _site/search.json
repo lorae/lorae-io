@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "lorae-io",
+    "title": "Hi, I’m Lorae!",
     "section": "",
-    "text": "Hi, I’m Lorae! I’m a Research Specialist in Princeton University’s Eviction Lab, in the sociology department. I have a bachelor’s degree in economics from Harvard University, and previously worked in macroeconomic policy research at the Brookings Institution. This is my (very brand new) website.\nI study how Americans navigate housing choices. I’m also interested in the underlying mechanics driving real estate markets, and in policy measures that can improve our housing affordability, stability, and access.\nFind me here:\nLinkedIn: https://www.linkedin.com/in/lorae-stojanovic/\nGitHub: https://github.com/lorae\nBluesky: https://bsky.app/profile/lorae.io"
+    "text": "I’m a Research Specialist at Princeton University’s Eviction Lab, part of the Sociology Department. I have a bachelor’s degree in economics from Harvard University and previously worked in macroeconomic policy research at the Brookings Institution. This is my (brand new) website.\nI study how Americans navigate housing choices. I’m also interested in the underlying mechanics driving real estate markets, and in policy measures that can improve our housing affordability, stability, and access.\nFind me here:"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "This is a brand-new website, created in December 2024. Stay posted: Someday (and someday soon), this website will be magnificent."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Placeholder."
   }
 ]

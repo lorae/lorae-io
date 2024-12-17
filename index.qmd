@@ -1,15 +1,36 @@
 ---
-title: "lorae-io"
+title: "Hi, I'm Lorae!"
+format:
+  html:
+    allow-html: true
+    css: styles.css
+    include-in-header:
+      - text: <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 ---
 
-Hi, I'm Lorae! I'm a Research Specialist in Princeton University's Eviction Lab, in the sociology department. I have a bachelor's degree in economics from Harvard University, and previously worked in macroeconomic policy research at the Brookings Institution. This is my (very brand new) website.
+I'm a Research Specialist at Princeton University's Eviction Lab, part of the Sociology Department. I have a bachelor's degree in economics from Harvard University and previously worked in macroeconomic policy research at the Brookings Institution. This is my (brand new) website.
 
 I study how Americans navigate housing choices. I'm also interested in the underlying mechanics driving real estate markets, and in policy measures that can improve our housing affordability, stability, and access.
 
 Find me here:
 
-LinkedIn: <https://www.linkedin.com/in/lorae-stojanovic/>
-
-GitHub: <https://github.com/lorae>
-
-Bluesky: <https://bsky.app/profile/lorae.io>\
+```{=html}
+<div style="display: flex; gap: 15px; align-items: center;">
+  <!-- GitHub -->
+  <a href="https://github.com/lorae" target="_blank" title="GitHub" style="text-decoration: none;">
+    <i class="bi bi-github" style="font-size: 2rem; color: #333;"></i>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/lorae-stojanovic/" target="_blank" title="LinkedIn" style="text-decoration: none;">
+    <i class="bi bi-linkedin" style="font-size: 2rem; color: #0077B5;"></i>
+  </a>
+  <!-- Bluesky -->
+  <a href="https://bsky.app/profile/lorae.io" target="_blank" title="Bluesky" style="text-decoration: none;">
+    <i class="bi bi-cloud" style="font-size: 2rem; color: #00acee;"></i>
+  </a>
+  <!-- Medium -->
+  <a href="https://medium.com/@lorae-stojanovic" target="_blank" title="Medium" style="text-decoration: none;">
+    <i class="bi bi-book" style="font-size: 2rem; color: #000;"></i>
+  </a>
+</div>
+```
